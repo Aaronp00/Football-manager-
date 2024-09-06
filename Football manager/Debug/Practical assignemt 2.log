@@ -1,0 +1,25 @@
+﻿  Practical assignemt 2.cpp
+E:\Coding Projects\Practical assignemt 2\Practical assignemt 2\Practical assignemt 2.cpp(336,11): error C2086: 'std::string back': redefinition
+  E:\Coding Projects\Practical assignemt 2\Practical assignemt 2\Practical assignemt 2.cpp(231,9):
+  see declaration of 'back'
+  
+E:\Coding Projects\Practical assignemt 2\Practical assignemt 2\Practical assignemt 2.cpp(353,2): error C2059: syntax error: 'else'
+E:\Coding Projects\Practical assignemt 2\Practical assignemt 2\Practical assignemt 2.cpp(354,2): error C2143: syntax error: missing ';' before '{'
+E:\Coding Projects\Practical assignemt 2\Practical assignemt 2\Practical assignemt 2.cpp(354,2): error C2447: '{': missing function header (old-style formal list?)
+E:\Coding Projects\Practical assignemt 2\Practical assignemt 2\Practical assignemt 2.cpp(391,2): error C2059: syntax error: 'else'
+E:\Coding Projects\Practical assignemt 2\Practical assignemt 2\Practical assignemt 2.cpp(392,3): error C2143: syntax error: missing ';' before '{'
+E:\Coding Projects\Practical assignemt 2\Practical assignemt 2\Practical assignemt 2.cpp(392,3): error C2447: '{': missing function header (old-style formal list?)
+E:\Coding Projects\Practical assignemt 2\Practical assignemt 2\Practical assignemt 2.cpp(472,2): error C2059: syntax error: 'else'
+E:\Coding Projects\Practical assignemt 2\Practical assignemt 2\Practical assignemt 2.cpp(474,2): error C2143: syntax error: missing ';' before '{'
+E:\Coding Projects\Practical assignemt 2\Practical assignemt 2\Practical assignemt 2.cpp(474,2): error C2447: '{': missing function header (old-style formal list?)
+E:\Coding Projects\Practical assignemt 2\Practical assignemt 2\Practical assignemt 2.cpp(511,2): error C2059: syntax error: 'else'
+E:\Coding Projects\Practical assignemt 2\Practical assignemt 2\Practical assignemt 2.cpp(512,2): error C2143: syntax error: missing ';' before '{'
+E:\Coding Projects\Practical assignemt 2\Practical assignemt 2\Practical assignemt 2.cpp(512,2): error C2447: '{': missing function header (old-style formal list?)
+E:\Coding Projects\Practical assignemt 2\Practical assignemt 2\Practical assignemt 2.cpp(582,2): error C2059: syntax error: 'else'
+E:\Coding Projects\Practical assignemt 2\Practical assignemt 2\Practical assignemt 2.cpp(583,4): error C2143: syntax error: missing ';' before '{'
+E:\Coding Projects\Practical assignemt 2\Practical assignemt 2\Practical assignemt 2.cpp(583,4): error C2447: '{': missing function header (old-style formal list?)
+E:\Coding Projects\Practical assignemt 2\Practical assignemt 2\Practical assignemt 2.cpp(608,2): error C2059: syntax error: 'else'
+E:\Coding Projects\Practical assignemt 2\Practical assignemt 2\Practical assignemt 2.cpp(609,2): error C2143: syntax error: missing ';' before '{'
+E:\Coding Projects\Practical assignemt 2\Practical assignemt 2\Practical assignemt 2.cpp(609,2): error C2447: '{': missing function header (old-style formal list?)
+E:\Coding Projects\Practical assignemt 2\Practical assignemt 2\Practical assignemt 2.cpp(640,2): error C2059: syntax error: '}'
+E:\Coding Projects\Practical assignemt 2\Practical assignemt 2\Practical assignemt 2.cpp(640,2): error C2143: syntax error: missing ';' before '}'

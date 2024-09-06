@@ -1,0 +1,7 @@
+********** NEW PLAYER **********
+
+Name:aaron
+players Position:ST
+Average Rating:6
+Avalibility:good
+Injured:N
